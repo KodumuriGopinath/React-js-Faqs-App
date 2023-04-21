@@ -1,0 +1,20 @@
+/* Write your code here. */
+.bg-container {
+  background-color: #9aa5b1;
+  padding: 25px;
+}
+.card-container {
+  background-color: #ffffff;
+  padding: 40px;
+  border-radius: 10px;
+}
+.faqs-list-items-container {
+  list-style-type: none;
+  padding-left: 0;
+}
+.main-heading {
+  font-size: 47px;
+  font-family: roboto;
+  color: #cb8805;
+  text-align: center;
+}
